@@ -16,3 +16,6 @@ https://medium.com/bug-bounty-hunting/beginner-tips-to-own-boxes-at-hackthebox-9
 https://forum.hackthebox.eu/discussions/tagged/tips/p1
 ## Write Ups
 ippsec youtube
+
+# Tmux
+https://linuxize.com/post/getting-started-with-tmux/
