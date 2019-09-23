@@ -1,14 +1,15 @@
 # useful-links
 Links com assuntos interessantes, a priori relacionados à compução
 
-## Minix
-https://cacm.acm.org/magazines/2016/3/198874-lessons-learned-from-30-years-of-minix/fulltext
-
 ## Arch
 ### Arch compared to other distros
 https://wiki.archlinux.org/index.php/Arch_compared_to_other_distributions#Gentoo/Funtoo_Linux
 ### General recommendations
 https://wiki.archlinux.org/index.php/General_recommendations#Arch_Build_System
+
+## Flask
+### Getting started
+https://medium.com/@onejohi/building-a-simple-rest-api-with-python-and-flask-b404371dc699
 
 ## Hack the Box
 ### Tips and Tricks
@@ -17,18 +18,26 @@ https://forum.hackthebox.eu/discussions/tagged/tips/p1
 ### Write Ups
 ippsec youtube
 
-## Tmux
-### Getting started
-https://linuxize.com/post/getting-started-with-tmux/
+## HSTS
+### What is
+https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security
+### Header syntax
+https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Headers/Strict-Transport-Security
+### How preload works
+https://blog.mozilla.org/security/2012/11/01/preloading-hsts/
 
 ## Loopback
 ### What is?
 https://youtu.be/kSTmW49fa4M
 
+## Minix
+https://cacm.acm.org/magazines/2016/3/198874-lessons-learned-from-30-years-of-minix/fulltext
+
 ## Mozilla Project
 ### Security Blog
 https://blog.mozilla.org/security/
 
-## Flask
+
+## Tmux
 ### Getting started
-https://medium.com/@onejohi/building-a-simple-rest-api-with-python-and-flask-b404371dc699
+https://linuxize.com/post/getting-started-with-tmux/
