@@ -20,3 +20,7 @@ ippsec youtube
 ## Tmux
 ### Getting started
 https://linuxize.com/post/getting-started-with-tmux/
+
+## Loopback
+### What is?
+https://youtu.be/kSTmW49fa4M
