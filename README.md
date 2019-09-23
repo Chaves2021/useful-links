@@ -28,3 +28,7 @@ https://youtu.be/kSTmW49fa4M
 ## Mozilla Project
 ### Security Blog
 https://blog.mozilla.org/security/
+
+## Flask
+### Getting started
+https://medium.com/@onejohi/building-a-simple-rest-api-with-python-and-flask-b404371dc699
