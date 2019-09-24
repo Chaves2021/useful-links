@@ -6,6 +6,8 @@ Links com assuntos interessantes, a priori relacionados à compução
 https://wiki.archlinux.org/index.php/Arch_compared_to_other_distributions#Gentoo/Funtoo_Linux
 ### General recommendations
 https://wiki.archlinux.org/index.php/General_recommendations#Arch_Build_System
+### Pacman tips and tricks
+https://wiki.archlinux.org/index.php/Pacman/Tips_and_tricks_(Portugu%C3%AAs)#Manuten%C3%A7%C3%A3o
 
 ## Flask
 ### Getting started
