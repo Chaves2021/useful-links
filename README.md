@@ -48,6 +48,8 @@ https://www.snort.org/documents/57
 https://www.snort.org/documents/40
 ### Wikipedia page
 https://pt.wikipedia.org/wiki/Snort
+### What is the purpose to test snort
+https://www.computerweekly.com/tip/How-to-test-Snort
 
 ## Tmux
 ### Getting started
