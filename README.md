@@ -39,7 +39,17 @@ https://cacm.acm.org/magazines/2016/3/198874-lessons-learned-from-30-years-of-mi
 ### Security Blog
 https://blog.mozilla.org/security/
 
-
 ## Tmux
 ### Getting started
 https://linuxize.com/post/getting-started-with-tmux/
+
+## Snort
+### User manual
+https://snort-org-site.s3.amazonaws.com/production/document_files/files/000/000/178/original/snort_manual.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIXACIED2SPMSC7GA%2F20190927%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190927T022436Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=a703a5401f82fac48c14f07023c4b6a7fc511f06d8016c0d65fa24d7cb534907
+### Registered vs Subscriber
+https://www.snort.org/documents/57
+### Conf Examples
+https://www.snort.org/documents/40
+### Wikipedia page
+https://pt.wikipedia.org/wiki/Snort
+
